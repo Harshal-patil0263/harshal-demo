@@ -1,2 +1,2 @@
 # harshal-demo
-aothor-harshalpatil
+author-harshalpatil
